@@ -39,12 +39,15 @@ Here are some ideas to get you started:
   <br>
 </p>
 
-### Tech Stack
-
+### Familier Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/css3-red?logo=css3)
+![Github](https://img.shields.io/badge/Github-black?logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 
 
