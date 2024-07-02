@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/fMkvY0J/1699252040022.jpg"></img>
 
 ## About Me
-Web development is a huge sector, it needs a continuously learning process. I'm also a learner and I have passion for gathering knowledge about upcoming invention. At this moment I have experience about Html, Css, Javascript, Node.js, React.js. I also use express.js, mongodb and some frameworks in my projects. Moreover, I found Tailwind and DaisyUi are very much comfortable to me.
+<li>
+  Web development is a huge sector, it needs a continuously learning process. I'm also a learner and I have passion for gathering knowledge about upcoming invention. At this moment I have experience about Html, Css, Javascript, Node.js, React.js. I also use express.js, mongodb and some frameworks in my projects. Moreover, I found Tailwind and DaisyUi are very much comfortable to me.
+
+</li>
+
