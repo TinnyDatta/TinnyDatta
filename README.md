@@ -31,3 +31,7 @@ Here are some ideas to get you started:
   Moreover, I found Tailwind and DaisyUi are very much comfortable to me.
 </li>
 
+## My Github Stats
+| <a href="https://github.com/TinnyDatta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TinnyDatta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tinny's github stats" /></a> | <a href="https://github.com/TinnyDatta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinnyDatta&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
