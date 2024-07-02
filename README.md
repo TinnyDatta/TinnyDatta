@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=blue)
-![HTML](https://[img.shields.io](https://i.ibb.co/s16D4kP/360-F-578113446-j72w-ZX7u698eo-V50-XXmk-LMH7g-Gu-Nhp-VB.jpg)/badge/React-20232A?logo=react&logoColor=blue)
+![HTML](https://[img.shields.io]/badge/React-20232A?logo=react&logoColor=blue)
 
 
